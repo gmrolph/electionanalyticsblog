@@ -1,4 +1,4 @@
-## Welcome to my blog!
+## 1347 Blog
 
 ### September 11, 2020
 
@@ -9,3 +9,7 @@ challenges
 of increased polarization and the Atlantic https://www.theatlantic.com/ideas/archive/2018/11/why-are-americans-so-geographically-polarized/575881/ attempts to 
 discern just why we Americans are so polarized. I too am interested in this question, and decided to study it this week using data on the percentage of party vote
 share in America. 
+
+Using the data that we were given this week, I calculated the margin of victory for each party. I then plotted the margin for each state that the Republican party
+won for the five election cycles since 2000. After I did this, I calculated the line of best fit to show trends between the elections as the share of the vote 
+moved up or down. 
