@@ -14,5 +14,5 @@ Using the data that we were given this week, I calculated the margin of victory 
 won for the five election cycles since 2000. After I did this, I calculated the line of best fit to show trends between the elections as the share of the vote 
 moved up or down. 
 
-![Republican Party Win Margin](../repubpartywin.png)
+![Republican Party Win Margin](../electionanalyticsblog/repubpartywin.png)
 
