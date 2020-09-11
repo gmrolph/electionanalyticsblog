@@ -13,3 +13,6 @@ share in America.
 Using the data that we were given this week, I calculated the margin of victory for each party. I then plotted the margin for each state that the Republican party
 won for the five election cycles since 2000. After I did this, I calculated the line of best fit to show trends between the elections as the share of the vote 
 moved up or down. 
+
+!(../repubpartywin.png)
+
