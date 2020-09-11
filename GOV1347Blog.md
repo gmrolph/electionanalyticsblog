@@ -16,3 +16,6 @@ moved up or down.
 
 ![Republican Party Win Margin](../electionanalyticsblog/repubpartywin.png)
 
+![Democratic Party Win Margin](../GOV1347Blog.md/dempartywin.png)
+
+![Overall Vote Share](..GOV1347Blog.md/twopartywin.png)
