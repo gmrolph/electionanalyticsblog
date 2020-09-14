@@ -16,6 +16,8 @@ moved up or down.
 
 ![Republican Party Win Margin](repubpartywin.png)
 
+I did the same thing for states where Democrats won presidential elections and viewed the results. I found interesting trends, including 
+
 ![Democratic Party Win Margin](dempartywin.png)
 
 ![Overall Vote Share](twopartywin.png)
