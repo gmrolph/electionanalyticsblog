@@ -22,8 +22,8 @@ Democrats in the 2008 election that they seem to have maintained since Obama's f
 ![Democratic Party Win Margin](dempartywin.png)
 
 Finally, I wanted to compare the discrepancy between the two parties and their vote share over time. I then created the below graphic which shows the average margin 
-of victory of both Democrats and Republicans since 1976. Interestingly, while it appears that there is a bit of a larger discrepancy between the margins of victory
-now as opposed to in 1976, the gap is not as large as I had expected considering that there has been such a discussion surrounding the polarization of America. 
+of victory of both Democrats and Republicans since 2000. Interestingly, while it appears that there is a bit of a larger discrepancy between the margins of victory
+now as opposed to in 2000, the gap is not as large as I had expected considering that there has been such a discussion surrounding the polarization of America. 
 Interestingly, it does appear that the polarization increased significantly after the 2008 election as the Democratic victory margin grew greatly.
 
 ![Overall Vote Share](twopartywin.png)
