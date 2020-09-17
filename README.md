@@ -1,1 +1,1 @@
-# electionanalyticsblog
+# Election Prediction Blog
